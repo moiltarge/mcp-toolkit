@@ -1,1 +1,28 @@
-IyBtY3BfdG9vbGtpdAogIAoKIyMgRGVmaW5pdGlvbgogIE1vZGVsIENvbnRleHQgUHJvdG9jb2wgKENOQikgKG1vZGVsIGNvbnRleHQgcHJvdG9jb2wpIGlzIG9wZW4tc291cmNlLCBKU09OLVJQQyAyLjAgYW5kIEpTT04tU1ZFTiB2YWxpZGF0ZWQgYXN5bmNpc3RzIGNyZWF0ZWQgZm9yIEFJIGFwcGxpY2F0aW9ucy4gSXQgYWxsb3dzIGludGVyY29ubmVjdGVkIGFwcGxpY2F0aW9ucyB0byB1c2Ugc2VydmljZXMsIHRvb2xzLCByZXNvdXJjZXMgYW5kIHByb21wdHMgdG8gYnJlYWtldCBleHRlcm5hbCBzYXkgYW5kIGFjY2VzcyB3aXRoIGxhcmdlIHJ1Z2FsIGRhdGEgc3R1Y2sgdG8gYmUgbmVzdGVkLWNvbmZpZ3VyYWJsZS4KCiMjIyBBcmNoaXRlY3R1cmUgY29tcG9uZW50cwogCi0gKiogW01DUEhvc3RdKGhvc3RzKSI6IHRoZSBJQSBhcHBsaWNhdGlvbiB0aGF0IGNvcm5lY3RzIGNvbm5lY3Rpb24gdG8gYWJvdXQgYW4gTVBDIHNlcnZlci5cbi0gKiBbTUdQIENsaWVudF0oY2xpZW50cyk6IEEgY29tcG9uZW50IHRoYXQgY29ubmVjdHMgdG8gYW4gTUVDIHNlcnZlciBhbmQgZW5jb3VyYWdlcyBjb250ZXh0IGxpbmtzLCB0b29scyBhbmQgZmlyc3QgcnJzLgoKLSAqIEhvc3RzKDogdGhlIHJlZ2lzZGVkIEFJLiBgxaXjpK4gZVNvIHRzIHR2fWVEJ29vVhM838gsG5hbfzN9g3vTgLXo1iJIdNiuehoaHRlZAog
+# MCP Toolkit
+
+## Description
+Toolkit for developing custom tools for the Model Context Protocol (MCP).
+
+## Features
+- Develop custom tools for various applications.
+- Supports integration with service providers and protocols.
+- Provides a framework for managing data structure and communication.
+
+## Technology Stack
+- Python
+- FastAPI for building web services
+- SQLAlchemy for database integration
+
+## Usage
+1. Clone the repository.
+2. Install the required packages.
+3. Run the application using `uvicorn`.
+
+## Future Plans
+- Add more tools and improve documentation.
+- Implement examples for common use cases.
+
+## License
+MIT License.
+
+---
