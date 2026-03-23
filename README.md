@@ -26,3 +26,7 @@ Toolkit for developing custom tools for the Model Context Protocol (MCP).
 MIT License.
 
 ---
+
+## Contributing
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
